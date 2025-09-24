@@ -16,3 +16,5 @@ for dep in dependencies:
         print(f"✗ {dep} - MANQUANT")
 
 print("\nVérification terminée!")
+
+CONTACT TELEGRAM: @HackfutS3c
